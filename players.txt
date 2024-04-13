@@ -1,0 +1,20 @@
+                    Players in Poker
+
+Under The Gun
+
+    Plays third
+
+Big Blind
+
+    Plays second
+
+Small Blind
+
+    Plays first
+
+The Button
+
+    Plays last
+
+Cut-Off
+Hi-Jack
